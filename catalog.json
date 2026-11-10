@@ -1,0 +1,82 @@
+[
+  {
+    "id": "router",
+    "name": "Roteador",
+    "file": "router.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "844fe598d6d4de1cb4a3e5a32910d823b1c4acf624f20d9e6e12fe551127d267"
+  },
+  {
+    "id": "switch",
+    "name": "Switch",
+    "file": "switch.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "bd5c76fdc83066a963859553871a4d4da1934c8b59b966caecb817b131b1eade"
+  },
+  {
+    "id": "linux-server",
+    "name": "Servidor Linux",
+    "file": "linux-server.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b1f0647b3eb4b7fdd29b61504a3da84ce16c79157f3d9a39dff91c265161045a"
+  },
+  {
+    "id": "windows-server",
+    "name": "Servidor Windows",
+    "file": "windows-server.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "fe4e23204675aacd1381f39ceae04a29b400f55379a066568ea2b43855ddf4fb"
+  },
+  {
+    "id": "access-point",
+    "name": "Access point",
+    "file": "access-point.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "0f5df60e6e414bd29bbbb875fe7aea07d8e9916a87568c428a14873f7f347a34"
+  },
+  {
+    "id": "olt",
+    "name": "OLT",
+    "file": "olt.png",
+    "width": 1586,
+    "height": 992,
+    "sha256": "d72936766820a7ebc0639e6031f184ae9ce733ba6f59fe749611c9f1660a76fb"
+  },
+  {
+    "id": "cloud",
+    "name": "Cloud",
+    "file": "cloud.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ca5df98170039ebc5126f40d0871ea72603d0c4fd5d71cc7cb6aa665fd4d5312"
+  },
+  {
+    "id": "pc",
+    "name": "PC",
+    "file": "pc.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "861573e0eeaa6a0695aaf9bc32bb77e2308bdd86afd0d9cf10a9f25cf736bf4b"
+  },
+  {
+    "id": "proxmox",
+    "name": "Proxmox",
+    "file": "proxmox.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f9602052cb77acb0887a9c296d99c8dcdd590c83075e4d97cdbeb406765cc820"
+  },
+  {
+    "id": "vmware",
+    "name": "VMware",
+    "file": "vmware.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f38eee9acac0501d612e6f72b84ee563bc7c2ad3e24f275ea718fde8bb25dcb3"
+  }
+]
